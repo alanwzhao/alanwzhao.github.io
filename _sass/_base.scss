@@ -4,7 +4,13 @@
 
 // Typography
 
-p,
+p {
+  color: var(--global-text-color);
+  align-items: justify;
+  font-family: serif;
+}
+
+
 h1,
 h2,
 h3,
