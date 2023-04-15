@@ -108,6 +108,7 @@ span,
 strong {
   color: var(--global-text-color);
   text-align: justify;
+  font-family: Georgia;
 }
 
 h1,
@@ -118,6 +119,7 @@ h5,
 h6 {
   color: var(--global-text-color);
   text-align: left;
+  font-family: Georgia;
 }
 
 hr {
