@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://alanwzhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanwzhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-15T21:32:12+00:00</updated><id>https://alanwzhao.github.io/feed.xml</id><title type="html">Quantum</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://alanwzhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanwzhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-15T21:38:04+00:00</updated><id>https://alanwzhao.github.io/feed.xml</id><title type="html">Quantum</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with giscus comments</title><link href="https://alanwzhao.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://alanwzhao.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://alanwzhao.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://alanwzhao.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://alanwzhao.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://alanwzhao.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with redirect</title><link href="https://alanwzhao.github.io/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://alanwzhao.github.io/blog/2022/redirect</id><content type="html" xml:base="https://alanwzhao.github.io/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a post with diagrams</title><link href="https://alanwzhao.github.io/blog/2021/diagrams/" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://alanwzhao.github.io/blog/2021/diagrams</id><content type="html" xml:base="https://alanwzhao.github.io/blog/2021/diagrams/"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
 Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
 
@@ -24,7 +24,7 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1681594341959" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1681594341959 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1681594341959 .node circle,#mermaid-1681594341959 .node ellipse,#mermaid-1681594341959 .node polygon,#mermaid-1681594341959 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1681594341959 .node.clickable{cursor:pointer}#mermaid-1681594341959 .arrowheadPath{fill:#333}#mermaid-1681594341959 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1681594341959 .edgeLabel{background-color:#e8e8e8}#mermaid-1681594341959 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1681594341959 .cluster text{fill:#333}#mermaid-1681594341959 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1681594341959 .actor{stroke:#ccf;fill:#ececff}#mermaid-1681594341959 text.actor{fill:#000;stroke:none}#mermaid-1681594341959 .actor-line{stroke:grey}#mermaid-1681594341959 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1681594341959 .messageLine0,#mermaid-1681594341959 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1681594341959 #arrowhead{fill:#333}#mermaid-1681594341959 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1681594341959 .messageText{fill:#333;stroke:none}#mermaid-1681594341959 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1681594341959 .labelText,#mermaid-1681594341959 .loopText{fill:#000;stroke:none}#mermaid-1681594341959 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1681594341959 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1681594341959 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1681594341959 .section{stroke:none;opacity:.2}#mermaid-1681594341959 .section0{fill:rgba(102,102,255,.49)}#mermaid-1681594341959 .section2{fill:#fff400}#mermaid-1681594341959 .section1,#mermaid-1681594341959 .section3{fill:#fff;opacity:.2}#mermaid-1681594341959 .sectionTitle0,#mermaid-1681594341959 .sectionTitle1,#mermaid-1681594341959 .sectionTitle2,#mermaid-1681594341959 .sectionTitle3{fill:#333}#mermaid-1681594341959 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1681594341959 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1681594341959 .grid path{stroke-width:0}#mermaid-1681594341959 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1681594341959 .task{stroke-width:2}#mermaid-1681594341959 .taskText{text-anchor:middle;font-size:11px}#mermaid-1681594341959 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1681594341959 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1681594341959 .taskText0,#mermaid-1681594341959 .taskText1,#mermaid-1681594341959 .taskText2,#mermaid-1681594341959 .taskText3{fill:#fff}#mermaid-1681594341959 .task0,#mermaid-1681594341959 .task1,#mermaid-1681594341959 .task2,#mermaid-1681594341959 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1681594341959 .taskTextOutside0,#mermaid-1681594341959 .taskTextOutside1,#mermaid-1681594341959 .taskTextOutside2,#mermaid-1681594341959 .taskTextOutside3{fill:#000}#mermaid-1681594341959 .active0,#mermaid-1681594341959 .active1,#mermaid-1681594341959 .active2,#mermaid-1681594341959 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1681594341959 .activeText0,#mermaid-1681594341959 .activeText1,#mermaid-1681594341959 .activeText2,#mermaid-1681594341959 .activeText3{fill:#000!important}#mermaid-1681594341959 .done0,#mermaid-1681594341959 .done1,#mermaid-1681594341959 .done2,#mermaid-1681594341959 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1681594341959 .doneText0,#mermaid-1681594341959 .doneText1,#mermaid-1681594341959 .doneText2,#mermaid-1681594341959 .doneText3{fill:#000!important}#mermaid-1681594341959 .crit0,#mermaid-1681594341959 .crit1,#mermaid-1681594341959 .crit2,#mermaid-1681594341959 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1681594341959 .activeCrit0,#mermaid-1681594341959 .activeCrit1,#mermaid-1681594341959 .activeCrit2,#mermaid-1681594341959 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1681594341959 .doneCrit0,#mermaid-1681594341959 .doneCrit1,#mermaid-1681594341959 .doneCrit2,#mermaid-1681594341959 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1681594341959 .activeCritText0,#mermaid-1681594341959 .activeCritText1,#mermaid-1681594341959 .activeCritText2,#mermaid-1681594341959 .activeCritText3,#mermaid-1681594341959 .doneCritText0,#mermaid-1681594341959 .doneCritText1,#mermaid-1681594341959 .doneCritText2,#mermaid-1681594341959 .doneCritText3{fill:#000!important}#mermaid-1681594341959 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1681594341959 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1681594341959 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1681594341959 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1681594341959 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1681594341959 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1681594341959 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1681594341959 #compositionEnd,#mermaid-1681594341959 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1681594341959 #aggregationEnd,#mermaid-1681594341959 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1681594341959 #dependencyEnd,#mermaid-1681594341959 #dependencyStart,#mermaid-1681594341959 #extensionEnd,#mermaid-1681594341959 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1681594341959 .branch-label,#mermaid-1681594341959 .commit-id,#mermaid-1681594341959 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1681594341959 {
+  <svg id="mermaid-1681594692676" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1681594692676 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1681594692676 .node circle,#mermaid-1681594692676 .node ellipse,#mermaid-1681594692676 .node polygon,#mermaid-1681594692676 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1681594692676 .node.clickable{cursor:pointer}#mermaid-1681594692676 .arrowheadPath{fill:#333}#mermaid-1681594692676 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1681594692676 .edgeLabel{background-color:#e8e8e8}#mermaid-1681594692676 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1681594692676 .cluster text{fill:#333}#mermaid-1681594692676 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1681594692676 .actor{stroke:#ccf;fill:#ececff}#mermaid-1681594692676 text.actor{fill:#000;stroke:none}#mermaid-1681594692676 .actor-line{stroke:grey}#mermaid-1681594692676 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1681594692676 .messageLine0,#mermaid-1681594692676 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1681594692676 #arrowhead{fill:#333}#mermaid-1681594692676 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1681594692676 .messageText{fill:#333;stroke:none}#mermaid-1681594692676 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1681594692676 .labelText,#mermaid-1681594692676 .loopText{fill:#000;stroke:none}#mermaid-1681594692676 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1681594692676 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1681594692676 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1681594692676 .section{stroke:none;opacity:.2}#mermaid-1681594692676 .section0{fill:rgba(102,102,255,.49)}#mermaid-1681594692676 .section2{fill:#fff400}#mermaid-1681594692676 .section1,#mermaid-1681594692676 .section3{fill:#fff;opacity:.2}#mermaid-1681594692676 .sectionTitle0,#mermaid-1681594692676 .sectionTitle1,#mermaid-1681594692676 .sectionTitle2,#mermaid-1681594692676 .sectionTitle3{fill:#333}#mermaid-1681594692676 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1681594692676 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1681594692676 .grid path{stroke-width:0}#mermaid-1681594692676 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1681594692676 .task{stroke-width:2}#mermaid-1681594692676 .taskText{text-anchor:middle;font-size:11px}#mermaid-1681594692676 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1681594692676 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1681594692676 .taskText0,#mermaid-1681594692676 .taskText1,#mermaid-1681594692676 .taskText2,#mermaid-1681594692676 .taskText3{fill:#fff}#mermaid-1681594692676 .task0,#mermaid-1681594692676 .task1,#mermaid-1681594692676 .task2,#mermaid-1681594692676 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1681594692676 .taskTextOutside0,#mermaid-1681594692676 .taskTextOutside1,#mermaid-1681594692676 .taskTextOutside2,#mermaid-1681594692676 .taskTextOutside3{fill:#000}#mermaid-1681594692676 .active0,#mermaid-1681594692676 .active1,#mermaid-1681594692676 .active2,#mermaid-1681594692676 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1681594692676 .activeText0,#mermaid-1681594692676 .activeText1,#mermaid-1681594692676 .activeText2,#mermaid-1681594692676 .activeText3{fill:#000!important}#mermaid-1681594692676 .done0,#mermaid-1681594692676 .done1,#mermaid-1681594692676 .done2,#mermaid-1681594692676 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1681594692676 .doneText0,#mermaid-1681594692676 .doneText1,#mermaid-1681594692676 .doneText2,#mermaid-1681594692676 .doneText3{fill:#000!important}#mermaid-1681594692676 .crit0,#mermaid-1681594692676 .crit1,#mermaid-1681594692676 .crit2,#mermaid-1681594692676 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1681594692676 .activeCrit0,#mermaid-1681594692676 .activeCrit1,#mermaid-1681594692676 .activeCrit2,#mermaid-1681594692676 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1681594692676 .doneCrit0,#mermaid-1681594692676 .doneCrit1,#mermaid-1681594692676 .doneCrit2,#mermaid-1681594692676 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1681594692676 .activeCritText0,#mermaid-1681594692676 .activeCritText1,#mermaid-1681594692676 .activeCritText2,#mermaid-1681594692676 .activeCritText3,#mermaid-1681594692676 .doneCritText0,#mermaid-1681594692676 .doneCritText1,#mermaid-1681594692676 .doneCritText2,#mermaid-1681594692676 .doneCritText3{fill:#000!important}#mermaid-1681594692676 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1681594692676 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1681594692676 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1681594692676 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1681594692676 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1681594692676 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1681594692676 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1681594692676 #compositionEnd,#mermaid-1681594692676 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1681594692676 #aggregationEnd,#mermaid-1681594692676 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1681594692676 #dependencyEnd,#mermaid-1681594692676 #dependencyStart,#mermaid-1681594692676 #extensionEnd,#mermaid-1681594692676 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1681594692676 .branch-label,#mermaid-1681594692676 .commit-id,#mermaid-1681594692676 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1681594692676 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
@@ -34,218 +34,216 @@ sequenceDiagram
 You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
 If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To use display mode, again surround your expression with `$$` and place it as a separate paragraph.
-Here is an example:
+<p><code class="language-plaintext highlighter-rouge">To use display mode, again surround your expression with </code>$$` and place it as a separate paragraph.
+Here is an example:</p>
 
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
+\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
 
-good?`
+<p>good?’</p>
 
-Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
+<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
+Here is an example:</p>
 
-***
+\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
 
-## Citations
+<p>good?</p>
 
-**Citations are then used** in the article body with the `&lt;d-cite&gt;` tag.
+<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>
+
+<hr />
+
+<h2 id="citations">Citations</h2>
+
+<p><strong>Citations are then used</strong> in the article body with the <code class="language-plaintext highlighter-rouge">&lt;d-cite&gt;</code> tag.
 The key attribute is a reference to the id provided in the bibliography.
-The key attribute can take multiple ids, separated by commas.
+The key attribute can take multiple ids, separated by commas.</p>
 
-The citation is presented inline like this: &lt;d-cite key="gregor2015draw"&gt;&lt;/d-cite&gt; (a number that displays more information on hover).
-If you have an appendix, a bibliography is automatically created and populated in it.
+<p>The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
+If you have an appendix, a bibliography is automatically created and populated in it.</p>
 
-Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
-However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.
+<p>Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
+However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.</p>
 
-***
+<hr />
 
-## Footnotes
+<h2 id="footnotes">Footnotes</h2>
 
-Just wrap the text you would like to show up in a footnote in a `&lt;d-footnote&gt;` tag.
-The number of the footnote will be automatically generated.&lt;d-footnote&gt;This will become a hoverable footnote.&lt;/d-footnote&gt;
+<p>Just wrap the text you would like to show up in a footnote in a <code class="language-plaintext highlighter-rouge">&lt;d-footnote&gt;</code> tag.
+The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote></p>
 
-***
+<hr />
 
-## Code Blocks
+<h2 id="code-blocks">Code Blocks</h2>
 
-Syntax highlighting is provided within `&lt;d-code&gt;` tags.
-An example of inline code snippets: `&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;`.
-For larger blocks of code, add a `block` attribute:
+<p>Syntax highlighting is provided within <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> tags.
+An example of inline code snippets: <code class="language-plaintext highlighter-rouge">&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;</code>.
+For larger blocks of code, add a <code class="language-plaintext highlighter-rouge">block</code> attribute:</p>
 
-&lt;d-code block language="javascript"&gt;
+<d-code block="" language="javascript">
   var x = 25;
   function(x) {
     return x * x;
   }
-&lt;/d-code&gt;
+</d-code>
 
-**Note:** `&lt;d-code&gt;` blocks do not look good in the dark mode.
-You can always use the default code-highlight using the `highlight` liquid tag:
+<p><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> blocks do not look good in the dark mode.
+You can always use the default code-highlight using the <code class="language-plaintext highlighter-rouge">highlight</code> liquid tag:</p>
 
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
+<span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">x</span> <span class="o">*</span> <span class="nx">x</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
 
-&lt;figure class="highlight"&gt;&lt;pre&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;25&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;x&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nx"&gt;x&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="nx"&gt;x&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<hr />
 
+<h2 id="interactive-plots">Interactive Plots</h2>
 
-***
+<p>You can add interative plots using plotly + iframes :framed_picture:</p>
 
-## Interactive Plots
+<div class="l-page">
+  <iframe src="/assets/plotly/demo.html" frameborder="0" scrolling="no" height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+</div>
 
-You can add interative plots using plotly + iframes :framed_picture:
+<p>The plot must be generated separately and saved into an HTML file.
+To generate the plot that you see above, you can use the following code snippet:</p>
 
-&lt;div class="l-page"&gt;
-  &lt;iframe src="/assets/plotly/demo.html" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+<span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
+  <span class="s">'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'</span>
+<span class="p">)</span>
+<span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
+  <span class="n">df</span><span class="p">,</span>
+  <span class="n">lat</span><span class="o">=</span><span class="s">'Latitude'</span><span class="p">,</span>
+  <span class="n">lon</span><span class="o">=</span><span class="s">'Longitude'</span><span class="p">,</span>
+  <span class="n">z</span><span class="o">=</span><span class="s">'Magnitude'</span><span class="p">,</span>
+  <span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+  <span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
+  <span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+  <span class="n">mapbox_style</span><span class="o">=</span><span class="s">"stamen-terrain"</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="s">'assets/plotly/demo.html'</span><span class="p">)</span></code></pre></figure>
 
-The plot must be generated separately and saved into an HTML file.
-To generate the plot that you see above, you can use the following code snippet:
+<hr />
 
+<h2 id="details-boxes">Details boxes</h2>
 
-&lt;figure class="highlight"&gt;&lt;pre&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;pandas&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="n"&gt;pd&lt;/span&gt;
-&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;plotly.express&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="n"&gt;px&lt;/span&gt;
-&lt;span class="n"&gt;df&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;pd&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;read_csv&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
-  &lt;span class="s"&gt;'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;fig&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;px&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;density_mapbox&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
-  &lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;lat&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;'Latitude'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;lon&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;'Longitude'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;z&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;'Magnitude'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;radius&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;center&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nf"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;lat&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lon&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;180&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
-  &lt;span class="n"&gt;zoom&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-  &lt;span class="n"&gt;mapbox_style&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;"stamen-terrain"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;fig&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;show&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-&lt;span class="n"&gt;fig&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;write_html&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;'assets/plotly/demo.html'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<p>Details boxes are collapsible boxes which hide additional information from the user. They can be added with the <code class="language-plaintext highlighter-rouge">details</code> liquid tag:</p>
 
+<details><summary>Click here to know more</summary>
+<p>Additional details, where math \(2x - 1\) and <code class="language-plaintext highlighter-rouge">code</code> is rendered correctly.</p>
+</details>
 
-***
+<hr />
 
-## Details boxes 
+<h2 id="layouts">Layouts</h2>
 
-Details boxes are collapsible boxes which hide additional information from the user. They can be added with the `details` liquid tag:
+<p>The main text column is referred to as the body.
+It is the assumed layout of any direct descendants of the <code class="language-plaintext highlighter-rouge">d-article</code> element.</p>
 
-&lt;details&gt;&lt;summary&gt;Click here to know more&lt;/summary&gt;
-&lt;p&gt;Additional details, where math \(2x - 1\) and &lt;code class="language-plaintext highlighter-rouge"&gt;code&lt;/code&gt; is rendered correctly.&lt;/p&gt;
-&lt;/details&gt;
+<div class="fake-img l-body">
+  <p>.l-body</p>
+</div>
 
-***
+<p>For images you want to display a little larger, try <code class="language-plaintext highlighter-rouge">.l-page</code>:</p>
 
-## Layouts
+<div class="fake-img l-page">
+  <p>.l-page</p>
+</div>
 
-The main text column is referred to as the body.
-It is the assumed layout of any direct descendants of the `d-article` element.
+<p>All of these have an outset variant if you want to poke out from the body text a little bit.
+For instance:</p>
 
-&lt;div class="fake-img l-body"&gt;
-  &lt;p&gt;.l-body&lt;/p&gt;
-&lt;/div&gt;
+<div class="fake-img l-body-outset">
+  <p>.l-body-outset</p>
+</div>
 
-For images you want to display a little larger, try `.l-page`:
+<div class="fake-img l-page-outset">
+  <p>.l-page-outset</p>
+</div>
 
-&lt;div class="fake-img l-page"&gt;
-  &lt;p&gt;.l-page&lt;/p&gt;
-&lt;/div&gt;
+<p>Occasionally you’ll want to use the full browser width.
+For this, use <code class="language-plaintext highlighter-rouge">.l-screen</code>.
+You can also inset the element a little from the edge of the browser by using the inset variant.</p>
 
-All of these have an outset variant if you want to poke out from the body text a little bit.
-For instance:
+<div class="fake-img l-screen">
+  <p>.l-screen</p>
+</div>
+<div class="fake-img l-screen-inset">
+  <p>.l-screen-inset</p>
+</div>
 
-&lt;div class="fake-img l-body-outset"&gt;
-  &lt;p&gt;.l-body-outset&lt;/p&gt;
-&lt;/div&gt;
+<p>The final layout is for marginalia, asides, and footnotes.
+It does not interrupt the normal flow of <code class="language-plaintext highlighter-rouge">.l-body</code> sized text except on mobile screen sizes.</p>
 
-&lt;div class="fake-img l-page-outset"&gt;
-  &lt;p&gt;.l-page-outset&lt;/p&gt;
-&lt;/div&gt;
+<div class="fake-img l-gutter">
+  <p>.l-gutter</p>
+</div>
 
-Occasionally you’ll want to use the full browser width.
-For this, use `.l-screen`.
-You can also inset the element a little from the edge of the browser by using the inset variant.
+<hr />
 
-&lt;div class="fake-img l-screen"&gt;
-  &lt;p&gt;.l-screen&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="fake-img l-screen-inset"&gt;
-  &lt;p&gt;.l-screen-inset&lt;/p&gt;
-&lt;/div&gt;
+<h2 id="other-typography">Other Typography?</h2>
 
-The final layout is for marginalia, asides, and footnotes.
-It does not interrupt the normal flow of `.l-body` sized text except on mobile screen sizes.
+<p>Emphasis, aka italics, with <em>asterisks</em> (<code class="language-plaintext highlighter-rouge">*asterisks*</code>) or <em>underscores</em> (<code class="language-plaintext highlighter-rouge">_underscores_</code>).</p>
 
-&lt;div class="fake-img l-gutter"&gt;
-  &lt;p&gt;.l-gutter&lt;/p&gt;
-&lt;/div&gt;
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
 
-***
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
 
-## Other Typography?
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
 
-Emphasis, aka italics, with *asterisks* (`*asterisks*`) or _underscores_ (`_underscores_`).
+<ol>
+  <li>First ordered list item</li>
+  <li>Another item
+⋅⋅* Unordered sub-list.</li>
+  <li>Actual numbers don’t matter, just that it’s a number
+⋅⋅1. Ordered sub-list</li>
+  <li>And another item.</li>
+</ol>
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p>
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+<ul>
+  <li>Unordered list can use asterisks</li>
+  <li>Or minuses</li>
+  <li>Or pluses</li>
+</ul>
 
-[I'm an inline-style link](https://www.google.com)
+<p><a href="https://www.google.com">I’m an inline-style link</a></p>
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+<p><a href="https://www.mozilla.org">I’m a reference-style link</a></p>
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
 
-[You can use numbers for reference-style link definitions][1]
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
 
-Or leave it empty and use the [link text itself].
+<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or &lt;http://www.example.com&gt; and sometimes
-example.com (but not on Github, for example).
+<p>URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes
+example.com (but not on Github, for example).</p>
 
-Some text to show that the reference links can follow later.
+<p>Some text to show that the reference links can follow later.</p>
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+<p>Here’s our logo (hover to see the title text):</p>
 
-Here's our logo (hover to see the title text):
+<p>Inline-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
 
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<p>Reference-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
 
-Reference-style:
-![alt text][logo]
+<p>Inline <code class="language-plaintext highlighter-rouge">code</code> has <code class="language-plaintext highlighter-rouge">back-ticks around</code> it.</p>
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
+<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
 </code></pre></div></div>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="s">"Python syntax highlighting"</span>
