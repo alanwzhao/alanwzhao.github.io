@@ -100,7 +100,12 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-p {
+p,
+em,
+div,
+li,
+span,
+strong {
   color: var(--global-text-color);
   text-align: justify;
   font-family: serif;
@@ -111,12 +116,7 @@ h2,
 h3,
 h4,
 h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+h6 {
   color: var(--global-text-color);
 }
 
