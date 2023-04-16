@@ -12,7 +12,6 @@ span,
 strong {
   color: var(--global-text-color);
   text-align: justify;
-  font-family: Georgia;
 }
 
 h1,
@@ -23,7 +22,6 @@ h5,
 h6 {
   color: var(--global-text-color);
   text-align: left;
-  font-family: Georgia;
 }
 
 hr {
@@ -124,7 +122,6 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: Georgia;
 
     p {
       display: inline-block;
